@@ -40,3 +40,8 @@ The result should be similar to the output given as follows:
 
 --- playing with cpe453 object ---
 [Course: Digital Image Processing (261453), Lecturer=Sansanee, has 0 students, max=20]
+
+
+#NAME
+SUPHALOET VONGKUNKIJ
+570611036 

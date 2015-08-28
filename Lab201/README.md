@@ -35,3 +35,8 @@ The result should be similar to the output given as follows:
 [Student: Mario (57004), age=20, is active student]
 [Student: s5 (57005), age=22, is active student]
 [Student: s6 (57006), age=20, is NOT active student]
+
+
+#NAME
+SUPHALOET VONGKUNKIJ
+570611036 
